@@ -1,0 +1,17 @@
+From Wiki, "Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites"
+
+It is quite challenging, instead of getting datasets and building a ML model on top of it, 
+one can scrape a website and take the data which he/she wants to work on. 
+Most of the companies will provide API's to extract the data from their website. 
+Not all the data that can be scrapped, a few restrictions though.
+
+
+Important notes about web scraping:
+1.Read through the website’s Terms and Conditions to understand how you can legally use the data. 
+2.Most sites prohibit you from using the data for commercial purposes.
+3.Make sure you are not downloading data at too rapid a rate because this may break the website. 
+4.You may potentially be blocked from the site as well.
+
+References :
+1.https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+2.https://en.wikipedia.org/wiki/Web_scraping
