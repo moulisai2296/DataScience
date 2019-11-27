@@ -1,0 +1,12 @@
+       ***Neural Networks***  
+     
+1.History of Neural Neworks
+2.Logistic Reression and Perceptron
+3.Multi-Layered Perceptron (MLP)
+4.Training a Single Neuron Model : Chain rule and Memoization
+5.Backpropagation
+6.Activation Functions
+7.Deep Neural Networks (Deep MLP)
+8.Dropout Layer and Regularization
+9.Weight Initialization and Batch Normalization
+10.Optimizers
